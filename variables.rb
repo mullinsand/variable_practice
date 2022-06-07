@@ -7,3 +7,6 @@ fortify=4
 pie=3.14
 devil=6.66
 halfway=0.5
+liar=false
+politician=false
+dog=true
