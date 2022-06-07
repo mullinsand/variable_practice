@@ -4,3 +4,6 @@ fred="suzie"
 onerous=1
 tuberculosis=2
 fortify=4
+pie=3.14
+devil=6.66
+halfway=0.5
