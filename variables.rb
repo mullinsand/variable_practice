@@ -10,3 +10,10 @@ halfway=0.5
 liar=false
 politician=false
 dog=true
+tom="arnold"
+tammy="edna"
+fred="isme"
+puts tom
+puts halfway
+puts dog
+puts fred
